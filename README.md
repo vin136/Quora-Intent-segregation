@@ -39,3 +39,5 @@ This repo contains following notebooks alongside corresponding pdf versions:
 
 
 3.Quora_Mean_w2v:Here weighted w2v features of the data are used.
+
+# Bonus:A neural network model is also included....
